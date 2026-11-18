@@ -2,6 +2,9 @@
 
 Invert view colors for images, editor, and PDF viewer. Useful for dark themes or reducing eye strain.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [invert-colors](https://github.com/lumine-code/invert-colors).
+
 ## Features
 
 - **Workspace inversion**: Invert colors of the entire workspace.
